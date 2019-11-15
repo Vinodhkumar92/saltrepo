@@ -1,0 +1,2 @@
+include:
+ - test.s1
